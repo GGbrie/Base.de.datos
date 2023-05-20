@@ -1,0 +1,10 @@
+C:\Users\leslie\source\repos\Base de Datos clase\Base de Datos clase\obj\Debug\net6.0-windows\Base de Datos clase.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\Base de Datos clase\Base de Datos clase\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leslie\source\repos\Base de Datos clase\Base de Datos clase\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leslie\source\repos\Base de Datos clase\Base de Datos clase\obj\Debug\net6.0-windows\Base de Datos clase_MarkupCompile.cache
+C:\Users\leslie\source\repos\Base de Datos clase\Base de Datos clase\obj\Debug\net6.0-windows\Base de Datos clase_MarkupCompile.lref
+C:\Users\DELL\Desktop\Desafio\Base-de-datos-desafio\desafio base de dato\obj\Debug\net6.0-windows\Base de Datos clase.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Desafio\Base-de-datos-desafio\desafio base de dato\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\DELL\Desktop\Desafio\Base-de-datos-desafio\desafio base de dato\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\DELL\Desktop\Desafio\Base-de-datos-desafio\desafio base de dato\obj\Debug\net6.0-windows\Base de Datos clase_MarkupCompile.cache
+C:\Users\DELL\Desktop\Desafio\Base-de-datos-desafio\desafio base de dato\obj\Debug\net6.0-windows\Base de Datos clase_MarkupCompile.lref
